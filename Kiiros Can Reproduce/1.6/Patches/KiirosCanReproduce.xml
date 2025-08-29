@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+
+    <Operation Class="PatchOperationAdd">
+
+		<xpath>Defs/AlienRace.ThingDef_AlienRace[defName="Kiiro_Race"]/alienRace/generalSettings/forcedRaceTraitEntries</xpath>
+		<value>
+			<li>
+                <defName>Gay</defName>
+                <chance>100</chance>
+            </li>
+		</value>
+
+        <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="Kiiro_Race"]/alienRace/generalSettings</xpath>
+        <value>
+            <reproductionSettings>
+                <fertilizingGender>Female</fertilizingGender>
+                <gestatingGender>Female</gestatingGender>
+            </reproductionSettings>
+        </value>
+
+	</Operation>
+
+</Patch>
