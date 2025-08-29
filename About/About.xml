@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+    <name>Kiiros Can Reproduce</name>
+    <description>A mod to allow Kiiros to reproduce with each other. It does this by making all Kiiros have the Lesbian trait and changing their reproduction to work with 2 females</description>
+    <author>Eliza513</author>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <packageId>Eliza513.KiirosCanReproduce</packageId>
+
+    <modDependencies>
+        <li>
+            <packageId>Ancot.KiiroRace</packageId>
+            <displayName>Kiiro Race</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2988200143</steamWorkshopUrl>
+        </li>
+        <li>
+            <packageId>Ludeon.Rimworld.Biotech</packageId>
+            <displayName>Biotech</displayName>
+        </li>
+    </modDependencies>
+
+    <loadAfter>
+        <li>Ancot.KiiroRace</li>
+    </loadAfter>
+
+</ModMetaData>
