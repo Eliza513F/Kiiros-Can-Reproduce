@@ -12,14 +12,18 @@
             </li>
 		</value>
 
+	</Operation>
+
+    <Operation Class="PatchOperationAdd">
+
         <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="Kiiro_Race"]/alienRace/generalSettings</xpath>
         <value>
-            <reproductionSettings>
+            <reproduction>
                 <fertilizingGender>Female</fertilizingGender>
                 <gestatingGender>Female</gestatingGender>
-            </reproductionSettings>
+            </reproduction>
         </value>
 
-	</Operation>
+    </Operation>
 
 </Patch>
