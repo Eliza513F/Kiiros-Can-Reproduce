@@ -1,0 +1,5 @@
+This is a mod to allow Kiiros to reproduce with each other. It does this by making all Kiiros have the Gay trait and changing their reproduction to work with 2 females, instead of requiring a male and a female
+
+To use this mod, if you have Rimworld on Steam, go to the Steam workshop page for it (https://steamcommunity.com/sharedfiles/filedetails/?id=3561212430) and click Subscribe, then activate it in a mod manager or in-game. Alternatively, you can download this mod from here, place the mod folder into the Mods folder of Rimworld (See: https://rimworldwiki.com/wiki/Modding_Tutorials/Mod_Folder_Structure#RimWorld_Mod_Folder for default locations), and then activate it in a mod manager or in-game.
+
+Disclaimer: Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
